@@ -16,3 +16,7 @@ touch <filename.txt>	Creates file
 git add <filename>	to add the file
 	(use "git rm --cached <file>..." to unstage)
 
+git add .		Adds all files
+git add *.txt		Adds all filetypes
+
+git commit		Commits files
