@@ -22,3 +22,5 @@ git add *.txt		Adds all filetypes
 git commit		Commits files
 
 git remote add origin https://github.com/SimonSharville/GitTest.git
+
+git push -u origin master
