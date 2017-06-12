@@ -27,7 +27,24 @@ git push -u origin master
 
 Video 5 ———————
 
-git branch MyFirstBranch
+git branch MyFirstBranch				Makes Branch
 
-git checkout MyFirstBranch
+git checkout MyFirstBranch				Checkout Branch
 
+Make changes
+
+git add .						Add Changes to local branch
+
+git commit -m "added test2.txt"			Commit Changes to local branch
+
+git push -u origin MyFirstBranch			Push Changes to local branch
+
+git checkout master					Check out Master
+
+git merge MyFirstBranch				Merge Branch into Master
+
+git push -u origin master				Push Master
+
+git branch -d "MyFirstBranch"				Delete Branch Locally
+
+git push origin --delete MyFirstBranch		Delete Branch Remotely
