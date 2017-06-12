@@ -1,0 +1,13 @@
+cd /Users/simonsharville/Dropbox/SSL_WORK/SSL_Web_Repositories/GitTest
+
+To Show/Hide Files
+defaults write com.apple.finder AppleShowAllFiles NO
+
+https://www.youtube.com/watch?v=0Icla6TVNNo&t=2s
+
+==============
+
+
+Commands
+git status		Checks Status of Directory
+touch <filename.txt>	Creates file
