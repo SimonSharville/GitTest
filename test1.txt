@@ -25,4 +25,9 @@ git remote add origin https://github.com/SimonSharville/GitTest.git
 
 git push -u origin master
 
-test
+Video 5 ———————
+
+git branch MyFirstBranch
+
+git checkout MyFirstBranch
+
